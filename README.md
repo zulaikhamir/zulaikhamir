@@ -20,22 +20,14 @@ I believe technology, when created with intention, can reflect beauty, simplicit
 - 📔 *Notion Templates* — designing minimalist & Islamic productivity systems  
 
 ---
-
 ## ⚙️ Tech Stack  
 
-**Languages:**  
-💻 Java • 🐍 Python • ⚡ JavaScript (ES6+) • 🌐 HTML5 • 🎨 CSS3  
-**Frameworks & Libraries:**  
-⚛️ React • 🚀 FastAPI • 🧩 Node.js • 🔄 Redux  
-**Cloud & Systems:**  
-☁️ AWS (EC2, S3, Lambda) • 🐧 Linux  
-**Databases:**  
-🗄️ MySQL • 🐘 PostgreSQL • 🍃 MongoDB  
-**Tools:**  
-🛠️ Git • 🧭 GitHub • 💡 VS Code • 📬 Postman • 🐳 Docker *(learning)*  
-**Currently Exploring:**  
-🌱 REST APIs • 🧠 Data Structures & Algorithms
-
+**Languages:** Java, Python, JavaScript (ES6+), HTML5, CSS3  
+**Frameworks & Libraries:** React, FastAPI, Node.js, Redux  
+**Cloud & Systems:** AWS (EC2, S3, Lambda), Linux  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Postman, Docker (learning)  
+**Currently Exploring:** REST APIs,DSA
 
 ---
 
@@ -45,16 +37,7 @@ I believe technology, when created with intention, can reflect beauty, simplicit
 > Live with faith.”  
 
 ---
-## 📈 Progress Tracker
 
-| Focus Area | Status | Notes |
-|-------------|---------|-------|
-| ☁️ AWS Developer Associate | 🟠 In Progress | Target: Jan 2026 |
-| 🧩 DSA Practice | 🟢 Active | 80+ problems solved |
-| 💻 FastAPI + React | 🟢 Building WordWeaver |
-| ✍️ Creative Writing | 🟢 Ongoing | Writing my first novel |
-
----
 
 ✨ *“To build and express ideas that connect logic and emotion — through code, design, and storytelling.”*
 
