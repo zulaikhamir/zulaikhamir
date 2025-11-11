@@ -1,4 +1,4 @@
-# Hola & Peace 🌸  
+# Salaam 🌸  
 I’m **Zulaikha** — a Software Developer 🌿 who loves building meaningful, mindful digital spaces.  
 
 I believe technology, when created with intention, can reflect beauty, simplicity, and purpose — much like faith and life itself.  
