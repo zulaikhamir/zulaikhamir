@@ -1,5 +1,5 @@
 # Salaam 🌸
-I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience building full-stack applications across React, Node.js, FastAPI, PostgreSQL, and AWS. Currently deepening my Java fundamentals and learning Spring Boot.
+I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience building full-stack applications across React, Node.js, FastAPI, PostgreSQL, and AWS. Currently focused on backend engineering with Java, Spring Boot, and AWS.
 
 🏅 AWS Certified Developer – Associate
 
@@ -8,21 +8,40 @@ I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience buildin
 ## 💫 About Me
 - 💻 Built and shipped production features: authentication flows, file storage (AWS S3), EC2 deployment workflows, CI/CD pipelines
 - 🧠 Interested in distributed systems, clean architecture, and cloud-native applications
-- 📚 Constant learner — exploring DSA, backend systems & Notion automation
+- 📚 Currently focused on backend engineering, distributed systems, and data structures & algorithms.
 - ✨ Writer & dreamer — turning thoughts into words and ideas into projects
 
 ---
 
-## 💡 What I'm Working On
-- 🌸 **Ihya** — faith-inspired app to help users practice daily Sunnahs
-- 🏢 Organization: https://github.com/ihyaapp/ihya-web
+## 🚀 Currently Building
+
+### 🌸 Ihya
+
+A production-ready application that helps Muslims build consistent daily Sunnah habits.
+
+🏢 Organization: https://github.com/ihyaapp/ihya-web
 
 ---
 
 ## ⚙️ Tech Stack
-**Established:** Java, JavaScript/TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, AWS (S3, EC2), Git, GitHub Actions
 
-**Currently Learning:** Spring Boot, Docker, System Design
+**Languages**
+Java • JavaScript • TypeScript • Python
+
+**Backend**
+Spring Boot • Node.js • FastAPI • REST APIs
+
+**Frontend**
+React • TypeScript
+
+**Cloud**
+AWS (EC2, S3, Lambda, Cognito)
+
+**Databases**
+PostgreSQL • MongoDB
+
+**Tools**
+Git • GitHub Actions • Docker
 
 ---
 
