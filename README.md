@@ -15,7 +15,7 @@ I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience buildin
 
 ## 💡 What I'm Working On
 - 🌸 **Ihya** — faith-inspired app to help users practice daily Sunnahs
-- 📔 Notion Templates — designing minimalist & Islamic productivity systems
+- 🏢 Organization: https://github.com/ihyaapp/ihya-web
 
 ---
 
