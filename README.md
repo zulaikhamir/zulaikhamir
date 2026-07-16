@@ -1,43 +1,36 @@
-# Salaam 🌸  
-I’m **Zulaikha** — a Software Developer 🌿 who loves building meaningful, mindful digital spaces.  
+# Salaam 🌸
+I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience building full-stack applications across React, Node.js, FastAPI, PostgreSQL, and AWS. Currently deepening my Java fundamentals and learning Spring Boot.
 
-I believe technology, when created with intention, can reflect beauty, simplicity, and purpose — much like faith and life itself.  
+🏅 AWS Certified Developer – Associate
 
 ---
-## 💫 About Me
 
-- 💻 Software Developer | Frontend • Backend • API Integration  
-- ☁️ AWS & FastAPI enthusiast, learning to build scalable systems  
-- 🧠 Passionate about solving problems with simplicity and story
+## 💫 About Me
+- 💻 Built and shipped production features: authentication flows, file storage (AWS S3), EC2 deployment workflows, CI/CD pipelines
+- 🧠 Interested in distributed systems, clean architecture, and cloud-native applications
 - 📚 Constant learner — exploring DSA, backend systems & Notion automation
 - ✨ Writer & dreamer — turning thoughts into words and ideas into projects
-  
 
 ---
 
-## 💡 What I’m Working On  
-- 🌸 *Random Act of Sunnah* — faith-inspired app to encourage mindful actions  
-- 📔 *Notion Templates* — designing minimalist & Islamic productivity systems  
-
----
-## ⚙️ Tech Stack  
-
-**Languages:** Java, Python, JavaScript (ES6+), HTML5, CSS3  
-**Frameworks & Libraries:** React, FastAPI, Node.js, Redux  
-**Cloud & Systems:** AWS (EC2, S3, Lambda), Linux  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman, Docker (learning)  
-**Currently Exploring:** REST APIs,DSA
+## 💡 What I'm Working On
+- 🌸 **Ihya** — faith-inspired app to help users practice daily Sunnahs
+- 📔 Notion Templates — designing minimalist & Islamic productivity systems
 
 ---
 
-## 🌸 Philosophy  
-> “Code with intention.  
-> Design with simplicity.  
-> Live with faith.”  
+## ⚙️ Tech Stack
+**Established:** Java, JavaScript/TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, AWS (S3, EC2), Git, GitHub Actions
+
+**Currently Learning:** Spring Boot, Docker, System Design
 
 ---
 
+## 🌸 Philosophy
+> "Code with intention.
+> Design with simplicity.
+> Live with faith."
 
-✨ *“To build and express ideas that connect logic and emotion — through code, design, and storytelling.”*
+---
 
+✨ *"To build and express ideas that connect logic and emotion — through code, design, and storytelling."*
