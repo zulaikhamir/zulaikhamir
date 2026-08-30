@@ -1,55 +1,16 @@
-# Salaam 🌸
-I'm **Zulaikha** — a Software Developer 🌿 with 1 year of experience building full-stack applications across React, Node.js, FastAPI, PostgreSQL, and AWS. Currently focused on backend engineering with Java, Spring Boot, and AWS.
+### Hi there! 👋
 
-🏅 AWS Certified Developer – Associate
+I'm [**Zulaikha Ashiq**](https://zulaikhamir.github.io/my-portfolio/), a Software Developer with experience building full-stack applications.
 
----
+I work with React, FastAPI, PostgreSQL, and AWS, and I'm currently focused on backend engineering with **Java and Spring Boot**. I'm also an **AWS Certified Developer – Associate**.
 
-## 💫 About Me
-- 💻 Built and shipped production features: authentication flows, file storage (AWS S3), EC2 deployment workflows, CI/CD pipelines
-- 🧠 Interested in distributed systems, clean architecture, and cloud-native applications
-- 📚 Currently focused on backend engineering, distributed systems, and data structures & algorithms.
-- ✨ Writer & dreamer — turning thoughts into words and ideas into projects
+I've shipped production features including authentication flows, S3-based file storage, EC2 deployment workflows, and CI/CD pipelines. I'm interested in distributed systems, clean architecture, and cloud-native applications.
 
----
+I also founded and lead [**Kashmiri Women in Tech**](https://kashmiriwomenintech.org), a community focused on growth and mentorship for women in engineering and technology.
 
-## 🚀 Currently Building
+Outside of code, I write.
 
-### 🌸 Ihya
+#### Let's connect!
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@zulaikhaa)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zulaikhaashiq)
 
-A production-ready application that helps Muslims build consistent daily Sunnah habits.
-
-🏢 Organization: https://github.com/ihyaapp/ihya-web
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**
-Java • JavaScript • TypeScript • Python
-
-**Backend**
-Spring Boot • Node.js • FastAPI • REST APIs
-
-**Frontend**
-React • TypeScript
-
-**Cloud**
-AWS (EC2, S3, Lambda, Cognito)
-
-**Databases**
-PostgreSQL • MongoDB
-
-**Tools**
-Git • GitHub Actions • Docker
-
----
-
-## 🌸 Philosophy
-> "Code with intention.
-> Design with simplicity.
-> Live with faith."
-
----
-
-✨ *"To build and express ideas that connect logic and emotion — through code, design, and storytelling."*
