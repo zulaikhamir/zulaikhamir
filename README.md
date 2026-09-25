@@ -1,16 +1,16 @@
 ### Hi there! 👋
 
-I'm [**Zulaikha Ashiq**](https://zulaikhamir.github.io/my-portfolio/), a Software Developer with experience building full-stack applications.
+I'm [**Zulaikha Ashiq**](https://zulaikhaashiq.vercel.app), a backend engineer building production systems with **Java, Spring Boot, PostgreSQL, and AWS**, provisioned with **Terraform**.
 
-I work with React, FastAPI, PostgreSQL, and AWS, and I'm currently focused on backend engineering with **Java and Spring Boot**. I'm also an **AWS Certified Developer – Associate**.
+I'm currently designing, building, and running **ihya** end to end: mobile app, API, database, infrastructure, and CI/CD. This includes hand-rolled JWT authentication with refresh-token rotation and reuse detection, and a zero-downtime deploy pipeline on ECS. I'm also an **AWS Certified Developer – Associate**.
 
-I've shipped production features including authentication flows, S3-based file storage, EC2 deployment workflows, and CI/CD pipelines. I'm interested in distributed systems, clean architecture, and cloud-native applications.
+Earlier, I shipped production features across enterprise applications, including bank integrations, authentication flows, EC2 deployment workflows, and CI/CD pipelines.
 
-I also founded and lead [**Kashmiri Women in Tech**](https://kashmiriwomenintech.org), a community focused on growth and mentorship for women in engineering and technology.
+I also founded and lead [**Kashmiri Women in Tech**](https://kashmiriwomenintech.org), a global community for Kashmiri women in tech and STEM.
 
-Outside of code, I write.
+Outside of code, I write: essays and poetry.
 
 #### Let's connect!
+
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@zulaikhaa)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zulaikhaashiq)
-
